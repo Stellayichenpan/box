@@ -4,6 +4,9 @@ public class Box {
     int length;
     int width;
     int height;
+    public Box(){
+
+    }
 
     public Box(int length, int width, int height) {
         this.length = length;
